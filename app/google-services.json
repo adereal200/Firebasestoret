@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "314143278242",
+    "firebase_url": "https://fir-storet.firebaseio.com",
+    "project_id": "fir-storet",
+    "storage_bucket": "fir-storet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314143278242:android:326c4d7b2fa57d6ea383fb",
+        "android_client_info": {
+          "package_name": "com.example.firebasestoret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314143278242-971i3opp1mm3csvia4qgqdsfmc353uiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasestoret",
+            "certificate_hash": "7a0835f202d314969239e5c069d0ee7e0470e3f7"
+          }
+        },
+        {
+          "client_id": "314143278242-un956aseo0jgr6m64q7g54ql3e78e11b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-fO6S8knhAKLLiR_SFyWShKDEO9mA8tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314143278242-un956aseo0jgr6m64q7g54ql3e78e11b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
